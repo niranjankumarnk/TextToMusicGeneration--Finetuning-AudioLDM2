@@ -1,15 +1,16 @@
 # TextToMusicGeneration--Finetuning-AudioLDM2
 
 **!!!!!!!!!!!!!!! ATTENTION !!!!!!!!!!!!!!!**  
-_The model is still under fine-tuning. There is currently some noise in the generated music, and I am actively working on improving the output quality._
+_The model has been fine-tuned, but there is still some noise in the generated music. Work is ongoing to improve output quality._
 
 ## Project Overview
 This repository contains code and resources for fine-tuning the **AudioLDM2** model for music generation using **text prompts**. The aim of this project is to develop deep learning models capable of generating high-quality music compositions from textual inputs, optimizing the parameters of the AudioLDM2 architecture to enhance audio fidelity and reduce noise.
 
 ## Current Status
-- The model is in the fine-tuning phase.
-- There are issues with **noise** in the generated music outputs.
-- Ongoing work is focused on **reducing noise** and **improving sound quality** for cleaner music generation.
+- Fine-tuning completed with initial results.
+- Noise persists in generated music outputs.
+- Ongoing efforts to further reduce noise and enhance sound quality.
+- Exploring a custom model architecture to address these issues and improve audio clarity
 
 ## Objectives
 - Fine-tune the AudioLDM2 model to improve the accuracy and quality of text-to-music generation.
